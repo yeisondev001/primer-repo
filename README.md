@@ -1,4 +1,4 @@
 # primer-repo
 
-## descripcion 
+## descripción 
 por ahora probando
